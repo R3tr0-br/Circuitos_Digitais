@@ -1,0 +1,8 @@
+Rasberry Pi 3B+ foi a placa utilizada para o projeto 
+para gravar iso foi usado rasberry pi imager, que fez a gravação dos dados no cartão de memória para que pudesse rodar o sistema operacional do rasberry
+foi substituída a iso por uma iso mais leve, porém mais complexa, deixando o programa mais leve para rodar com mais facilidade na maquina
+o dispositivo encontrou problemas em se conectar com a internet, dificultando o processo de execução do software. deu errado
+
+estamos instalando outro sistema operacional para que funciona
+instalado o sistema novamente
+
