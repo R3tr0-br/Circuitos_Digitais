@@ -13,15 +13,18 @@ sistema finalmente rodasse!
 
 o tinyllama1.1b é um projeto que visava em seu inicio treinar uma IA de 1.1 bilhões de tokens para 3 trilhões de tokens em apenas 90 dias. 
 
-A IA ollama responde perguntas simples com texto, porém quando questionada quanto é 2+2, a IA fez um texto e não deu a resposta precisa.
+ v
 
 como implementar ela em uma placa raspberry?
 materiais necessários:
 -cartão de memória;
 -um pc ou notebook;
 -uma placa raspberry pi 3b+;
+-conexão com a internet;
+
 instalando a IA:
 Necessário a instalação do software rasberry pi imager, dentro desse software, é possivel fazer a instalação do sistema operacional que será usado na rasberry;
 depois de aberto o software, selecionamos placa e software a ser instalado, ele será gravado direntamente no cartão de memória;
 depois de gravar os dados, inserimos o cartão de memória na placa e o conectamos a um monitor ou a uma maquina virtual para que o conteudo da placa seja transmitido;
 logo após todo esse processo fazemos a instalação do ollama para que possamos começar a fazer as perguntas à IA;
+
